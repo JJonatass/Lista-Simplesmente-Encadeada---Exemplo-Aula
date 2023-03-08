@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1678144789 source:c:\users\jonatas silva\desktop\testejogo\player_list.c
-	"player_list.h"
-
-1678144734 c:\users\jonatas silva\desktop\testejogo\player_list.h
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
